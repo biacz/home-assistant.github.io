@@ -25,6 +25,7 @@ The app is available on the iOS App Store in every country that Apple supports.
 
 * iOS device running at least iOS 9, but iOS 10 is greatly preferred.
 * Home Assistant 0.42.4 or higher for push notification support.
+* External access of your Home Assistant installation
 * SSL is strongly recommended. Self-signed SSL certificates will not work due to Apple's limitations.
 
 The `ios` component is the companion component for the Home Assistant iOS app. While not required, adding the `ios` component to your setup will greatly enhance the iOS app with new notification, location and sensor functions not possible with a standalone app.
